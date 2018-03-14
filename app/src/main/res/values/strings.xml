@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">List App</string>
+    
+    <string-array name="items">
+        <item>Tomato</item>
+        <item>Strawberry</item>
+        <item>Watermelon</item>
+        <item>Pumpkin</item>
+    </string-array>
+
+    <string-array name="prices">
+        <item>$0.99</item>
+        <item>$0.49</item>
+        <item>$4.99</item>
+        <item>$3.99</item>
+    </string-array>
+
+    <string-array name="descriptions">
+        <item>Juice box, no straw!</item>
+        <item>Fresh strawberries from my back-ard!</item>
+        <item>If you dont like watermelon, then screw you!</item>
+        <item>Perfect for carving!</item>
+    </string-array>
+
+</resources>
